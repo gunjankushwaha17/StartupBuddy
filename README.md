@@ -169,31 +169,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to experienc
 
 ---
 
-## 🚢 Deployment Guide
-
-The easiest way to deploy **StartupBuddy** is via **Vercel**:
-
-1. Push your repository to GitHub.
-2. Sign in to [Vercel](https://vercel.com/) and click **Add New > Project**.
-3. Import your `StartupBuddy` repository.
-4. Add your Environment Variable:
-   - `GEMINI_API_KEY`: `your_actual_key`
-5. Click **Deploy**!
-6. Once deployed, copy your domain URL and paste it into the [Live Demo & Deployment](#-live-demo--deployment) section of this README!
-
----
-
-## 🤝 Contributing
-
-Contributions, feedback, and feature requests are welcome!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📝 License
 
