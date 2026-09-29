@@ -21,8 +21,7 @@
 ## 🌐 Live Demo & Deployment
 
 > 🔗 **Live Application URL:**  
-> 👉 **[Insert Your Deployed Link Here (e.g., https://startupbuddy.vercel.app)]**  
-> *(Update this section with your live deployment URL on Vercel, Netlify, or your custom domain)*
+> 👉 **https://startup-buddy-4ngp.vercel.app/**  
 
 ---
 
